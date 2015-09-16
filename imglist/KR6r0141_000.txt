@@ -1,0 +1,3 @@
+001-0404a00	TKD 32-0542a	buddhist/K-koreana/32-tif/0500-0599/32_0542_A.TIF
+000-0443a22	TKD 32-0542b	buddhist/K-koreana/32-tif/0500-0599/32_0542_B.TIF
+000-0443b14	TKD 32-0542c	buddhist/K-koreana/32-tif/0500-0599/32_0542_C.TIF
